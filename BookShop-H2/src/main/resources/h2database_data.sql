@@ -1,0 +1,10 @@
+INSERT INTO book (bookname, publisher, price) VALUES ('자바1','폴리텍1', 1500);
+INSERT INTO book (bookname, publisher, price) VALUES ('자바2','폴리텍2', 2500);
+INSERT INTO book (bookname, publisher, price) VALUES ('자바3','폴리텍3', 3500);
+INSERT INTO book (bookname, publisher, price) VALUES ('자바4','폴리텍4', 4500);
+INSERT INTO book (bookname, publisher, price) VALUES ('자바5','폴리텍5', 5500);
+INSERT INTO book (bookname, publisher, price) VALUES ('자바6','폴리텍6', 6500);
+INSERT INTO book (bookname, publisher, price) VALUES ('자바7','폴리텍7', 7500);
+INSERT INTO book (bookname, publisher, price) VALUES ('자바8','폴리텍8', 8500);
+INSERT INTO book (bookname, publisher, price) VALUES ('자바9','폴리텍9', 9500);
+INSERT INTO book (bookname, publisher, price) VALUES ('자바10','폴리텍10', 10500);
